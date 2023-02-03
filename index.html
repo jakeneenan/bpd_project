@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <title>Data Visualization Project</title>
+    <style>
+        .container {
+            /* Remove the line below if you want a wider page */
+            max-width: 700px !important;
+            font-family: 'Georgia', Times, serif;
+          
+          color: #000000;
+        }
+
+        img{
+          display: block;
+          width:700px;
+          margin: 0 auto;
+          transition: 0.3s;
+          height: 500px;
+        }
+
+        a {
+          color: #000000;
+          text-decoration: underline;
+        }
+
+        .subhead {
+          font-weight: bold;
+          font-size: 20px; 
+        }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+    <header>
+        <br>
+      <h1 class="title"><b>Exploring the Boston Police Department's disciplinary records</b></h1>
+    </header>
+    <main>
+        <br>
+        <p><i>Jake Neenan</i></p>
+        
+      <section>
+        <br>
+        <p>
+            The Boston Police Department is known to be reluctatnt to discipline its officers. Recent Boston Globe <a href="https://www.bostonglobe.com/2020/07/18/metro/within-boston-police-department-complaints-against-officers-are-rarely-confirmed-or-result-punishment/?p1=StaffPage&p1=Article_Inline_Text_Link">investigations</a> <a href="https://www.bostonglobe.com/2020/11/21/metro/boston-police-badge-shields-officers-punishment-prosecution/?p1=StaffPage&p1=Article_Inline_Text_Link&p1=Article_Inline_Text_Link">have</a> found that the oldest police department in the U.S. drags its feet before completing investigations, and often throws out allegations of misconduct when it does.
+            Nearly a third of all internal investigations filed in the last 10 years are still pending. Of cases where misconduct is foud by the Department, 40% result in no punishment and another 37% result only in a verbal warning.
+        </p>
+        <br>
+        <p>
+            The sheer volume of citizen complaints has <a href="https://www.bostonglobe.com/2020/07/18/metro/within-boston-police-department-complaints-against-officers-are-rarely-confirmed-or-result-punishment/?p1=StaffPage&p1=Article_Inline_Text_Link">fallen</a> since the 1990s, which is real progress, but the Department can't bring itself to hold officers accountable when they happen. 
+        </p>
+        <br>
+        <p>
+        An analysis of city payroll data and 10 years' worth of BPD disciplinary records sourced from the Globe shows that both officers who are accused and officers who are internally found guilty of misconduct also avoid long term consequences. The Department is just as willing to promote known offenders, even those who have been referred to internal affairs multiple times, as officers with clean records and still defaults to finding officers innocent when they're accused of patterns of misconduct.
+        </p>
+        <br>
+        <p>
+        <h2 class="subhead">Reluctance to sustain allegations</h2>
+        </p>
+        <br>
+        <img src="allegations_vs_sustained.png" height="500" width="700"></img>
+        <p>
+        Even for officers who get referred to internal affairs time and time again, the most likely outcome is for the Department to side with them.
+        </p>
+        <br>
+        <h2 class="subhead">Promoting accused officers</h2>
+        <br>
+        <img src="allegations_vs_promotions.png" height="500" width="700"></img>
+        <p>
+            For officers accused of misconduct, the number of promotions they have received in the last 10 years is not related to the number of times they have been accused. It is less common for officers to have large number of allegations, but similar portions of those smaller groups have risen through the ranks.
+
+        </p>
+        <br>
+        <h2 class="subhead">Promoting known offenders</h2>
+        <br>
+        <img src="sustainedvpromotions.png" height="500" width="700"></img>
+        <br>
+        <p>
+            It's even less common for an officer to have a sustained allegation on their record, let alone multiple, over the last decade. But for those who have, similar numbers again rise through the Department regardless of their record.
+            In fact, the promotions per officer for those who have never offended and those who had been found guilty at least once before their promotion are nearly identical.
+        </p>
+        <br>
+        
+      </section>
+    
+    </main>
+    
+</div>
+  </body>
+</html>
