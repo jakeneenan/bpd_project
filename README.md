@@ -1,10 +1,10 @@
 # Analyzing Boston Police Department discipline records
 
-I looked at BPD disciplinary records and Boston payroll data from 2010-2020 to get a sense of how the Department handled allegations and how likely it was to promote offending officers later in their careers.
+I looked at BPD disciplinary records and Boston payroll data from 2010-2020 to get a sense of how the Department handled allegations and how likely it was to promote offending officers later in their careers. You can see the final product [here](https://jakeneenan.github.io/bpd_project/).
 
 ## Findings
 
-Being accused or being found guilty of misconduct had no effect on an officer's likelihood of being promoted. Essentially, about 4% of all officers in the Department got promoted every year. Whether they were never accused once or found guilty time and time again, this rate remained constant.
+Being accused or being found guilty of misconduct had no effect on an officer's likelihood of being promoted. About 4% of all officers in the Department got promoted every year. Whether they were never accused once or a known offender, this rate did not meaningfully change. The proportions of officers who got no, one, or two promotions were also not affected by officers' disciplinary records, staying steadily at about 70%, 25%, and 3% respectively.
 
 ## Data collection
 
@@ -21,4 +21,4 @@ I tried to think out of the box with visualizations here! Developing an intuitio
 
 ## Further work
 
-There is just so much to look at here. How specific offenses are treated, what ranks officers offend at, which races and genders do suffer consequences of offending, any of these could be projects on their own. It's no secret the BPD had accountability issues during the timeframe covered by the data, but looking through these records is a good exercise in using data to illustrate institutional problems
+There is just so much to look at here. How specific offenses are treated, what ranks officers offend at, which races and genders do suffer consequences of offending, any of these could be projects on their own. It's no secret the BPD had accountability issues during the timeframe covered by the data, but looking through these records is a good exercise in using data to illustrate institutional problems.
