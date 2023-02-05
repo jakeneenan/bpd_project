@@ -21,4 +21,4 @@ I tried to think out of the box with visualizations here! Developing an intuitio
 
 ## Further work
 
-There is just so much to look at here. How specific offenses are treated, what ranks officers offend at, which races and genders do suffer consequences of offending, any of these could be projects on their own. It's no secret the BPD had accountability issues during the timeframe covered by the data, but looking through these records is a good exercise in using data to illustrate institutional problems
+There is just so much to look at here. How specific offenses are treated, what ranks officers offend at, which races and genders do suffer consequences of offending, any of these could be projects on their own. It's no secret the BPD had accountability issues during the timeframe covered by the data, but looking through these records is a good exercise in using data to illustrate institutional problems.
