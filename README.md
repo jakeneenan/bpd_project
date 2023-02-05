@@ -8,8 +8,8 @@ Being accused or being found guilty of misconduct had no effect on an officer's 
 
 ## Data collection
 
-- I sourced BPD disciplinary records from the Boston Globe.
-- Boston payroll data is posted by the city here.
+- I sourced BPD disciplinary records from the [Boston Globe](https://www.bostonglobe.com/2020/11/24/metro/heres-searchable-database-boston-police-department-internal-investigations-disciplinary-actions-more/).
+- Boston payroll data is posted on the city's [Analyze Boston](https://data.boston.gov/dataset/employee-earnings-report) website.
 
 ## Data analysis process
 
