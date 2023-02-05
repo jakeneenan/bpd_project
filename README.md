@@ -4,7 +4,7 @@ I looked at BPD disciplinary records and Boston payroll data from 2010-2020 to g
 
 ## Findings
 
-Being accused or being found guilty of misconduct had no effect on an officer's likelihood of being promoted. Essentially, about 4% of all officers in the Department got promoted every year. Whether they were never accused once or found guilty time and time again, this rate remained constant.
+Being accused or being found guilty of misconduct had no effect on an officer's likelihood of being promoted. About 4% of all officers in the Department got promoted every year. Whether they were never accused once or a known offender, this rate did not meaningfully change. The proportions of officers who got no, one, or two promotions were also not affected by officers' disciplinary records, staying steadily at about 70%, 25%, and 3% respectively.
 
 ## Data collection
 
