@@ -1,6 +1,6 @@
 # Analyzing Boston Police Department discipline records
 
-I looked at BPD disciplinary records and Boston payroll data from 2010-2020 to get a sense of how the Department handled allegations and how likely it was to promote offending officers later in their careers.
+I looked at BPD disciplinary records and Boston payroll data from 2010-2020 to get a sense of how the Department handled allegations and how likely it was to promote offending officers later in their careers. You can see the final product [here](https://jakeneenan.github.io/bpd_project/).
 
 ## Findings
 
