@@ -17,7 +17,7 @@ I did some pandas magic to add a counter of the number of accusations, guilty fi
 
 ## New skills
 
-I tried to think out of the box with visualizations here! A lot of energy was spent on conveying the information visually in addition to laying out in words. The pandas work was more complex than I had done in the past, so that was a good exercise too.
+I tried to think out of the box with visualizations here! Developing an intuition for visual language is an area I need to grow in, so this was valuable. The pandas work was a good refresher as well.
 
 ## Further work
 
